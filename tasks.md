@@ -56,8 +56,8 @@
 | 13.2 | データベース連携 | `04_Network_Web_Development/044_Backend_Development/0442_Database_Integration.md` の作成 | 完了 |
 | 13.3 | セッション管理 | `04_Network_Web_Development/044_Backend_Development/0443_Session_Management.md` の作成 | 完了 |
 | 13.4 | パフォーマンス最適化 | `04_Network_Web_Development/044_Backend_Development/0444_Performance_Optimization.md` の作成 | 完了 |
-| 14.1 | クラウドサービス概要 | `05_Infrastructure/051_Cloud_Computing/0511_Cloud_Service_Overview.md` の作成 | 進行中 |
-| 14.2 | IaaS、PaaS、SaaS | `05_Infrastructure/051_Cloud_Computing/0512_IaaS_PaaS_SaaS.md` の作成 | 未着手 |
+| 14.1 | クラウドサービス概要 | `05_Infrastructure/051_Cloud_Computing/0511_Cloud_Service_Overview.md` の作成 | 完了 |
+| 14.2 | IaaS、PaaS、SaaS | `05_Infrastructure/051_Cloud_Computing/0512_IaaS_PaaS_SaaS.md` の作成 | 進行中 |
 | 14.3 | サーバーレスアーキテクチャ | `05_Infrastructure/051_Cloud_Computing/0513_Serverless_Architecture.md` の作成 | 未着手 |
 | 14.4 | コスト管理 | `05_Infrastructure/051_Cloud_Computing/0514_Cost_Management.md` の作成 | 未着手 |
 | 15.1 | Docker基礎 | `05_Infrastructure/052_Container_Orchestration/0521_Docker_Basics.md` の作成 | 未着手 |
