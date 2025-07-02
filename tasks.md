@@ -33,8 +33,8 @@
 | 7.5 | Node.js基礎 | `03_Programming_Languages/031_JavaScript_TypeScript/0315_Nodejs_Basic.md` の作成 | 完了 |
 | 8.1 | 基本文法と特徴 | `03_Programming_Languages/032_Python/0321_Basic_Syntax_Features.md` の作成 | 完了 |
 | 8.2 | ライブラリとパッケージ管理 | `03_Programming_Languages/032_Python/0322_Library_Package_Management.md` の作成 | 完了 |
-| 8.3 | データ処理とスクリプト | `03_Programming_Languages/032_Python/0323_Data_Processing_Scripting.md` の作成 | 進行中 |
-| 8.4 | フレームワーク概要 | `03_Programming_Languages/032_Python/0324_Framework_Overview.md` の作成 | 未着手 |
+| 8.3 | データ処理とスクリプト | `03_Programming_Languages/032_Python/0323_Data_Processing_Scripting.md` の作成 | 完了 |
+| 8.4 | フレームワーク概要 | `03_Programming_Languages/032_Python/0324_Framework_Overview.md` の作成 | 進行中 |
 | 9.1 | HTML/CSS基礎 | `03_Programming_Languages/033_Other_Languages/0331_HTML_CSS_Basic.md` の作成 | 未着手 |
 | 9.2 | SQL実践 | `03_Programming_Languages/033_Other_Languages/0332_SQL_Practice.md` の作成 | 未着手 |
 | 9.3 | シェルスクリプト | `03_Programming_Languages/033_Other_Languages/0333_Shell_Scripting.md` の作成 | 未着手 |
