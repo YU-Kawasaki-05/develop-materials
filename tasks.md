@@ -9,8 +9,8 @@
 | 2.2 | オブジェクト指向プログラミング | `01_Development_Basic/012_Programming_Concepts/0122_Object_Oriented_Programming.md` の作成 | 完了 |
 | 2.3 | 関数型プログラミング | `01_Development_Basic/012_Programming_Concepts/0123_Functional_Programming.md` の作成 | 完了 |
 | 2.4 | デザインパターン | `01_Development_Basic/012_Programming_Concepts/0124_Design_Patterns.md` の作成 | 完了 |
-| 3.1 | リレーショナルデータベース | `01_Development_Basic/013_Database_Basic/0131_Relational_Database.md` の作成 | 進行中 |
-| 3.2 | SQL基礎から応用 | `01_Development_Basic/013_Database_Basic/0132_SQL_Basic_Advanced.md` の作成 | 未着手 |
+| 3.1 | リレーショナルデータベース | `01_Development_Basic/013_Database_Basic/0131_Relational_Database.md` の作成 | 完了 |
+| 3.2 | SQL基礎から応用 | `01_Development_Basic/013_Database_Basic/0132_SQL_Basic_Advanced.md` の作成 | 進行中 |
 | 3.3 | NoSQLデータベース | `01_Development_Basic/013_Database_Basic/0133_NoSQL_Database.md` の作成 | 未着手 |
 | 3.4 | データモデリング | `01_Development_Basic/013_Database_Basic/0134_Data_Modeling.md` の作成 | 未着手 |
 | 3.5 | データエンジニアリング基礎 | `01_Development_Basic/013_Database_Basic/0135_Data_Engineering_Basic.md` の作成 | 未着手 |
