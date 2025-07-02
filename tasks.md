@@ -50,9 +50,9 @@
 | 12.1 | ブラウザの仕組み | `04_Network_Web_Development/043_Frontend_Development/0431_Browser_Mechanism.md` の作成 | 完了 |
 | 12.2 | DOM操作 | `04_Network_Web_Development/043_Frontend_Development/0432_DOM_Manipulation.md` の作成 | 完了 |
 | 12.3 | イベント駆動開発 | `04_Network_Web_Development/043_Frontend_Development/0433_Event_Driven_Development.md` の作成 | 完了 |
-| 12.4 | モダンフレームワーク概要 | `04_Network_Web_Development/043_Frontend_Development/0434_Modern_Framework_Overview.md` の作成 | 進行中 |
+| 12.4 | モダンフレームワーク概要 | `04_Network_Web_Development/043_Frontend_Development/0434_Modern_Framework_Overview.md` の作成 | 完了 |
 | 12.5 | クロスプラットフォーム開発 | `04_Network_Web_Development/043_Frontend_Development/0435_Cross_Platform_Development.md` の作成 | 未着手 |
-| 13.1 | サーバーアーキテクチャ | `04_Network_Web_Development/044_Backend_Development/0441_Server_Architecture.md` の作成 | 未着手 |
+| 13.1 | サーバーアーキテクチャ | `04_Network_Web_Development/044_Backend_Development/0441_Server_Architecture.md` の作成 | 進行中 |
 | 13.2 | データベース連携 | `04_Network_Web_Development/044_Backend_Development/0442_Database_Integration.md` の作成 | 未着手 |
 | 13.3 | セッション管理 | `04_Network_Web_Development/044_Backend_Development/0443_Session_Management.md` の作成 | 未着手 |
 | 13.4 | パフォーマンス最適化 | `04_Network_Web_Development/044_Backend_Development/0444_Performance_Optimization.md` の作成 | 未着手 |
