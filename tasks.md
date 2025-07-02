@@ -13,8 +13,8 @@
 | 3.2 | SQL基礎から応用 | `01_Development_Basic/013_Database_Basic/0132_SQL_Basic_Advanced.md` の作成 | 完了 |
 | 3.3 | NoSQLデータベース | `01_Development_Basic/013_Database_Basic/0133_NoSQL_Database.md` の作成 | 完了 |
 | 3.4 | データモデリング | `01_Development_Basic/013_Database_Basic/0134_Data_Modeling.md` の作成 | 完了 |
-| 3.5 | データエンジニアリング基礎 | `01_Development_Basic/013_Database_Basic/0135_Data_Engineering_Basic.md` の作成 | 進行中 |
-| 4.1 | Gitの基本概念と操作 | `02_Development_Environment/021_Version_Control/0211_Git_Basic_Operations.md` の作成 | 未着手 |
+| 3.5 | データエンジニアリング基礎 | `01_Development_Basic/013_Database_Basic/0135_Data_Engineering_Basic.md` の作成 | 完了 |
+| 4.1 | Gitの基本概念と操作 | `02_Development_Environment/021_Version_Control/0211_Git_Basic_Operations.md` の作成 | 進行中 |
 | 4.2 | GitHubの活用方法 | `02_Development_Environment/021_Version_Control/0212_GitHub_Utilization.md` の作成 | 未着手 |
 | 4.3 | ブランチ戦略 | `02_Development_Environment/021_Version_Control/0213_Branch_Strategy.md` の作成 | 未着手 |
 | 4.4 | コードレビューとコラボレーション | `02_Development_Environment/021_Version_Control/0214_Code_Review_Collaboration.md` の作成 | 未着手 |
