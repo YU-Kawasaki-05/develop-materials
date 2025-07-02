@@ -28,8 +28,8 @@
 | 6.4 | ログ管理 | `02_Development_Environment/023_Test_Debug/0234_Log_Management.md` の作成 | 完了 |
 | 7.1 | 基本文法と特徴 | `03_Programming_Languages/031_JavaScript_TypeScript/0311_Basic_Syntax_Features.md` の作成 | 完了 |
 | 7.2 | 非同期プログラミング | `03_Programming_Languages/031_JavaScript_TypeScript/0312_Asynchronous_Programming.md` の作成 | 完了 |
-| 7.3 | TypeScript詳細 | `03_Programming_Languages/031_JavaScript_TypeScript/0313_TypeScript_Details.md` の作成 | 進行中 |
-| 7.4 | モジュールシステム | `03_Programming_Languages/031_JavaScript_TypeScript/0314_Module_System.md` の作成 | 未着手 |
+| 7.3 | TypeScript詳細 | `03_Programming_Languages/031_JavaScript_TypeScript/0313_TypeScript_Details.md` の作成 | 完了 |
+| 7.4 | モジュールシステム | `03_Programming_Languages/031_JavaScript_TypeScript/0314_Module_System.md` の作成 | 進行中 |
 | 7.5 | Node.js基礎 | `03_Programming_Languages/031_JavaScript_TypeScript/0315_Nodejs_Basic.md` の作成 | 未着手 |
 | 8.1 | 基本文法と特徴 | `03_Programming_Languages/032_Python/0321_Basic_Syntax_Features.md` の作成 | 未着手 |
 | 8.2 | ライブラリとパッケージ管理 | `03_Programming_Languages/032_Python/0322_Library_Package_Management.md` の作成 | 未着手 |
@@ -78,20 +78,4 @@
 | 18.3 | 技術的負債 | `06_Security_Quality/062_Code_Quality_Maintainability/0623_Technical_Debt.md` の作成 | 未着手 |
 | 18.4 | ドキュメンテーション | `06_Security_Quality/062_Code_Quality_Maintainability/0624_Documentation.md` の作成 | 未着手 |
 | 18.5 | ライブラリ設計と公開 | `06_Security_Quality/062_Code_Quality_Maintainability/0625_Library_Design_Publication.md` の作成 | 未着手 |
-| 19.1 | AIの歴史と主要分野 | `07_AI_Machine_Learning/071_AI_ML_Basics/0711_AI_History_Major_Fields.md` の作成 | 未着手 |
-| 19.2 | 機械学習概論 | `07_AI_Machine_Learning/071_AI_ML_Basics/0712_Machine_Learning_Overview.md` の作成 | 未着手 |
-| 19.3 | データ前処理と特徴量エンジニアリング | `07_AI_Machine_Learning/071_AI_ML_Basics/0713_Data_Preprocessing_Feature_Engineering.md` の作成 | 未着手 |
-| 19.4 | 主要な機械学習アルゴリズム | `07_AI_Machine_Learning/071_AI_ML_Basics/0714_Major_Machine_Learning_Algorithms.md` の作成 | 未着手 |
-| 20.1 | 生成AIの基礎 | `07_AI_Machine_Learning/072_Generative_AI_LLM/0721_Generative_AI_Basics.md` の作成 | 未着手 |
-| 20.2 | 大規模言語モデル（LLM） | `07_AI_Machine_Learning/072_Generative_AI_LLM/0722_Large_Language_Models.md` の作成 | 未着手 |
-| 20.3 | プロンプトエンジニアリング | `07_AI_Machine_Learning/072_Generative_AI_LLM/0723_Prompt_Engineering.md` の作成 | 未着手 |
-| 20.4 | RAG (Retrieval Augmented Generation) | `07_AI_Machine_Learning/072_Generative_AI_LLM/0724_RAG.md` の作成 | 未着手 |
-| 20.5 | AIエージェント開発 | `07_AI_Machine_Learning/072_Generative_AI_LLM/0725_AI_Agent_Development.md` の作成 | 未着手 |
-| 21.1 | スクラム、カンバン | `08_Project_Management_Collaboration/081_Agile_Development/0811_Scrum_Kanban.md` の作成 | 未着手 |
-| 21.2 | 要件定義と仕様書 | `08_Project_Management_Collaboration/081_Agile_Development/0812_Requirements_Definition_Specifications.md` の作成 | 未着手 |
-| 21.3 | プロジェクト計画 | `08_Project_Management_Collaboration/081_Agile_Development/0813_Project_Planning.md` の作成 | 未着手 |
-| 21.4 | チームコミュニケーション | `08_Project_Management_Collaboration/081_Agile_Development/0814_Team_Communication.md` の作成 | 未着手 |
-| 22.1 | 新技術のキャッチアップ方法 | `08_Project_Management_Collaboration/082_Continuous_Learning_Career/0821_New_Technology_Catch_up.md` の作成 | 未着手 |
-| 22.2 | コミュニティ参加 | `08_Project_Management_Collaboration/082_Continuous_Learning_Career/0822_Community_Participation.md` の作成 | 未着手 |
-| 22.3 | ポートフォリオ作成 | `08_Project_Management_Collaboration/082_Continuous_Learning_Career/0823_Portfolio_Creation.md` の作成 | 未着手 |
-| 22.4 | キャリアパス | `08_Project_Management_Collaboration/082_Continuous_Learning_Career/0824_Career_Path.md` の作成 | 未着手 |
+| 19.1 | AIの歴史と主要分野 | `07_AI_Machine_Learning/071_AI_ML_Basics/0711_AI_History_Major_Fields.md`
