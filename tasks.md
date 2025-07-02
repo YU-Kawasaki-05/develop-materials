@@ -43,10 +43,10 @@
 | 10.2 | DNS、IP、ポート | `04_Network_Web_Development/041_Network_Basics/0412_DNS_IP_Port.md` の作成 | 完了 |
 | 10.3 | セキュリティ基礎 | `04_Network_Web_Development/041_Network_Basics/0413_Security_Basics.md` の作成 | 完了 |
 | 10.4 | 認証と認可 | `04_Network_Web_Development/041_Network_Basics/0414_Authentication_Authorization.md` の作成 | 完了 |
-| 11.1 | REST API設計原則 | `04_Network_Web_Development/042_API_Design_Development/0421_REST_API_Design_Principles.md` の作成 | 進行中 |
-| 11.2 | GraphQL基礎 | `04_Network_Web_Development/042_API_Design_Development/0422_GraphQL_Basics.md` の作成 | 未着手 |
-| 11.3 | APIドキュメント | `04_Network_Web_Development/042_API_Design_Development/0422_API_Documentation.md` の作成 | 未着手 |
-| 11.4 | APIセキュリティ | `04_Network_Web_Development/042_API_Design_Development/0424_API_Security.md` の作成 | 未着手 |
+| 11.1 | REST API設計原則 | `04_Network_Web_Development/042_API_Design_Development/0421_REST_API_Design_Principles.md` の作成 | 完了 |
+| 11.2 | APIドキュメント | `04_Network_Web_Development/042_API_Design_Development/0422_API_Documentation.md` の作成 | 進行中 |
+| 11.3 | APIセキュリティ | `04_Network_Web_Development/042_API_Design_Development/0423_API_Security.md` の作成 | 未着手 |
+| 11.4 | GraphQL基礎 | `04_Network_Web_Development/042_API_Design_Development/0424_GraphQL_Basics.md` の作成 | 未着手 |
 | 12.1 | ブラウザの仕組み | `04_Network_Web_Development/043_Frontend_Development/0431_Browser_Mechanism.md` の作成 | 未着手 |
 | 12.2 | DOM操作 | `04_Network_Web_Development/043_Frontend_Development/0432_DOM_Manipulation.md` の作成 | 未着手 |
 | 12.3 | 状態管理 | `04_Network_Web_Development/043_Frontend_Development/0433_State_Management.md` の作成 | 未着手 |
