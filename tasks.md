@@ -35,8 +35,8 @@
 | 8.2 | ライブラリとパッケージ管理 | `03_Programming_Languages/032_Python/0322_Library_Package_Management.md` の作成 | 完了 |
 | 8.3 | データ処理とスクリプト | `03_Programming_Languages/032_Python/0323_Data_Processing_Scripting.md` の作成 | 完了 |
 | 8.4 | フレームワーク概要 | `03_Programming_Languages/032_Python/0324_Framework_Overview.md` の作成 | 完了 |
-| 9.1 | HTML/CSS基礎 | `03_Programming_Languages/033_Other_Languages/0331_HTML_CSS_Basic.md` の作成 | 進行中 |
-| 9.2 | SQL実践 | `03_Programming_Languages/033_Other_Languages/0332_SQL_Practice.md` の作成 | 未着手 |
+| 9.1 | HTML/CSS基礎 | `03_Programming_Languages/033_Other_Languages/0331_HTML_CSS_Basic.md` の作成 | 完了 |
+| 9.2 | SQL実践 | `03_Programming_Languages/033_Other_Languages/0332_SQL_Practice.md` の作成 | 進行中 |
 | 9.3 | シェルスクリプト | `03_Programming_Languages/033_Other_Languages/0333_Shell_Scripting.md` の作成 | 未着手 |
 | 9.4 | 言語選択の指針 | `03_Programming_Languages/033_Other_Languages/0334_Language_Selection_Guidelines.md` の作成 | 未着手 |
 | 10.1 | HTTP/HTTPSプロトコル | `04_Network_Web_Development/041_Network_Basics/0411_HTTP_HTTPS_Protocol.md` の作成 | 未着手 |
