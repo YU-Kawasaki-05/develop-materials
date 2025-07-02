@@ -27,8 +27,8 @@
 | 6.3 | デバッグ技法 | `02_Development_Environment/023_Test_Debug/0233_Debugging_Techniques.md` の作成 | 完了 |
 | 6.4 | ログ管理 | `02_Development_Environment/023_Test_Debug/0234_Log_Management.md` の作成 | 完了 |
 | 7.1 | 基本文法と特徴 | `03_Programming_Languages/031_JavaScript_TypeScript/0311_Basic_Syntax_Features.md` の作成 | 完了 |
-| 7.2 | 非同期プログラミング | `03_Programming_Languages/031_JavaScript_TypeScript/0312_Asynchronous_Programming.md` の作成 | 進行中 |
-| 7.3 | TypeScript詳細 | `03_Programming_Languages/031_JavaScript_TypeScript/0313_TypeScript_Details.md` の作成 | 未着手 |
+| 7.2 | 非同期プログラミング | `03_Programming_Languages/031_JavaScript_TypeScript/0312_Asynchronous_Programming.md` の作成 | 完了 |
+| 7.3 | TypeScript詳細 | `03_Programming_Languages/031_JavaScript_TypeScript/0313_TypeScript_Details.md` の作成 | 進行中 |
 | 7.4 | モジュールシステム | `03_Programming_Languages/031_JavaScript_TypeScript/0314_Module_System.md` の作成 | 未着手 |
 | 7.5 | Node.js基礎 | `03_Programming_Languages/031_JavaScript_TypeScript/0315_Nodejs_Basic.md` の作成 | 未着手 |
 | 8.1 | 基本文法と特徴 | `03_Programming_Languages/032_Python/0321_Basic_Syntax_Features.md` の作成 | 未着手 |
