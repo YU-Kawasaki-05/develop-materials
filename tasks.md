@@ -22,8 +22,8 @@
 | 5.2 | 仮想環境とコンテナ | `02_Development_Environment/022_Development_Environment_Setup/0222_Virtual_Environment_Container.md` の作成 | 完了 |
 | 5.3 | パッケージ管理 | `02_Development_Environment/022_Development_Environment_Setup/0223_Package_Management.md` の作成 | 完了 |
 | 5.4 | 環境変数と設定管理 | `02_Development_Environment/022_Development_Environment_Setup/0224_Environment_Variables_Configuration.md` の作成 | 完了 |
-| 6.1 | テスト駆動開発（TDD） | `02_Development_Environment/023_Test_Debug/0231_Test_Driven_Development.md` の作成 | 進行中 |
-| 6.2 | 単体テスト、統合テスト | `02_Development_Environment/023_Test_Debug/0232_Unit_Integration_Test.md` の作成 | 未着手 |
+| 6.1 | テスト駆動開発（TDD） | `02_Development_Environment/023_Test_Debug/0231_Test_Driven_Development.md` の作成 | 完了 |
+| 6.2 | 単体テスト、統合テスト | `02_Development_Environment/023_Test_Debug/0232_Unit_Integration_Test.md` の作成 | 進行中 |
 | 6.3 | デバッグ技法 | `02_Development_Environment/023_Test_Debug/0233_Debugging_Techniques.md` の作成 | 未着手 |
 | 6.4 | ログ管理 | `02_Development_Environment/023_Test_Debug/0234_Log_Management.md` の作成 | 未着手 |
 | 7.1 | 基本文法と特徴 | `03_Programming_Languages/031_JavaScript_TypeScript/0311_Basic_Syntax_Features.md` の作成 | 未着手 |
