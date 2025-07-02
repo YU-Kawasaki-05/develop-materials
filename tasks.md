@@ -5,8 +5,8 @@
 | 1.1 | コンピュータの仕組み | `01_Development_Basic/011_ComputerScience_Basic/0111_Computer_System.md` の作成 | 完了 |
 | 1.2 | データ構造とアルゴリズム | `01_Development_Basic/011_ComputerScience_Basic/0112_Data_Structure_Algorithm.md` の作成 | 完了 |
 | 1.3 | 計算量とパフォーマンス | `01_Development_Basic/011_ComputerScience_Basic/0113_Performance_Analysis.md` の作成 | 完了 |
-| 2.1 | 変数、関数、制御構造 | `01_Development_Basic/012_Programming_Concepts/0121_Variables_Functions_Control.md` の作成 | 進行中 |
-| 2.2 | オブジェクト指向プログラミング | `01_Development_Basic/012_Programming_Concepts/0122_Object_Oriented_Programming.md` の作成 | 未着手 |
+| 2.1 | 変数、関数、制御構造 | `01_Development_Basic/012_Programming_Concepts/0121_Variables_Functions_Control.md` の作成 | 完了 |
+| 2.2 | オブジェクト指向プログラミング | `01_Development_Basic/012_Programming_Concepts/0122_Object_Oriented_Programming.md` の作成 | 進行中 |
 | 2.3 | 関数型プログラミング | `01_Development_Basic/012_Programming_Concepts/0123_Functional_Programming.md` の作成 | 未着手 |
 | 2.4 | デザインパターン | `01_Development_Basic/012_Programming_Concepts/0124_Design_Patterns.md` の作成 | 未着手 |
 | 3.1 | リレーショナルデータベース | `01_Development_Basic/013_Database_Basic/0131_Relational_Database.md` の作成 | 未着手 |
