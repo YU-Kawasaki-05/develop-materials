@@ -38,9 +38,9 @@
 | 9.1 | HTML/CSS基礎 | `03_Programming_Languages/033_Other_Languages/0331_HTML_CSS_Basic.md` の作成 | 完了 |
 | 9.2 | SQL実践 | `03_Programming_Languages/033_Other_Languages/0332_SQL_Practice.md` の作成 | 完了 |
 | 9.3 | シェルスクリプト | `03_Programming_Languages/033_Other_Languages/0333_Shell_Scripting.md` の作成 | 完了 |
-| 9.4 | 言語選択の指針 | `03_Programming_Languages/033_Other_Languages/0334_Language_Selection_Guidelines.md` の作成 | 進行中 |
-| 10.1 | HTTP/HTTPSプロトコル | `04_Network_Web_Development/041_Network_Basics/0411_HTTP_HTTPS_Protocol.md` の作成 | 未着手 |
-| 10.2 | DNS、IP、ポート | `04_Network_Web_Development/041_Network_Basics/0412_DNS_IP_Port.md` の作成 | 未着手 |
+| 9.4 | 言語選択の指針 | `03_Programming_Languages/033_Other_Languages/0334_Language_Selection_Guidelines.md` の作成 | 完了 |
+| 10.1 | HTTP/HTTPSプロトコル | `04_Network_Web_Development/041_Network_Basics/0411_HTTP_HTTPS_Protocol.md` の作成 | 完了 |
+| 10.2 | DNS、IP、ポート | `04_Network_Web_Development/041_Network_Basics/0412_DNS_IP_Port.md` の作成 | 進行中 |
 | 10.3 | セキュリティ基礎 | `04_Network_Web_Development/041_Network_Basics/0413_Security_Basics.md` の作成 | 未着手 |
 | 10.4 | 認証と認可 | `04_Network_Web_Development/041_Network_Basics/0414_Authentication_Authorization.md` の作成 | 未着手 |
 | 11.1 | REST API設計原則 | `04_Network_Web_Development/042_API_Design_Development/0421_REST_API_Design_Principles.md` の作成 | 未着手 |
