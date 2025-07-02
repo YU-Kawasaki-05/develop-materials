@@ -18,8 +18,8 @@
 | 4.2 | GitHubの活用方法 | `02_Development_Environment/021_Version_Control/0212_GitHub_Utilization.md` の作成 | 完了 |
 | 4.3 | ブランチ戦略 | `02_Development_Environment/021_Version_Control/0213_Branch_Strategy.md` の作成 | 完了 |
 | 4.4 | コードレビューとコラボレーション | `02_Development_Environment/021_Version_Control/0214_Code_Review_Collaboration.md` の作成 | 完了 |
-| 5.1 | エディタとIDE | `02_Development_Environment/022_Development_Environment_Setup/0221_Editor_IDE.md` の作成 | 進行中 |
-| 5.2 | 仮想環境とコンテナ | `02_Development_Environment/022_Development_Environment_Setup/0222_Virtual_Environment_Container.md` の作成 | 未着手 |
+| 5.1 | エディタとIDE | `02_Development_Environment/022_Development_Environment_Setup/0221_Editor_IDE.md` の作成 | 完了 |
+| 5.2 | 仮想環境とコンテナ | `02_Development_Environment/022_Development_Environment_Setup/0222_Virtual_Environment_Container.md` の作成 | 進行中 |
 | 5.3 | パッケージ管理 | `02_Development_Environment/022_Development_Environment_Setup/0223_Package_Management.md` の作成 | 未着手 |
 | 5.4 | 環境変数と設定管理 | `02_Development_Environment/022_Development_Environment_Setup/0224_Environment_Variables_Configuration.md` の作成 | 未着手 |
 | 6.1 | テスト駆動開発（TDD） | `02_Development_Environment/023_Test_Debug/0231_Test_Driven_Development.md` の作成 | 未着手 |
