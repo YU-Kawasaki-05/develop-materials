@@ -59,8 +59,8 @@
 | 14.1 | クラウドサービス概要 | `05_Infrastructure/051_Cloud_Computing/0511_Cloud_Service_Overview.md` の作成 | 完了 |
 | 14.2 | IaaS、PaaS、SaaS | `05_Infrastructure/051_Cloud_Computing/0512_IaaS_PaaS_SaaS.md` の作成 | 完了 |
 | 14.3 | サーバーレスアーキテクチャ | `05_Infrastructure/051_Cloud_Computing/0513_Serverless_Architecture.md` の作成 | 完了 |
-| 14.4 | コスト管理 | `05_Infrastructure/051_Cloud_Computing/0514_Cost_Management.md` の作成 | 進行中 |
-| 15.1 | Docker基礎 | `05_Infrastructure/052_Container_Orchestration/0521_Docker_Basics.md` の作成 | 未着手 |
+| 14.4 | コスト管理 | `05_Infrastructure/051_Cloud_Computing/0514_Cost_Management.md` の作成 | 完了 |
+| 15.1 | Docker基礎 | `05_Infrastructure/052_Container_Orchestration/0521_Docker_Basics.md` の作成 | 進行中 |
 | 15.2 | Kubernetes概要 | `05_Infrastructure/052_Container_Orchestration/0522_Kubernetes_Overview.md` の作成 | 未着手 |
 | 15.3 | コンテナ化のベストプラクティス | `05_Infrastructure/052_Container_Orchestration/0523_Containerization_Best_Practices.md` の作成 | 未着手 |
 | 15.4 | マイクロサービス | `05_Infrastructure/052_Container_Orchestration/0524_Microservices.md` の作成 | 未着手 |
