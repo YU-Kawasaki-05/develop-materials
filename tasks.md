@@ -65,8 +65,8 @@
 | 15.3 | コンテナ化のベストプラクティス | `05_Infrastructure/052_Container_Orchestration/0523_Containerization_Best_Practices.md` の作成 | 完了 |
 | 15.4 | CI/CDパイプライン | `05_Infrastructure/052_Container_Orchestration/0524_CI_CD_Pipeline.md` の作成 | 完了 |
 | 16.1 | 継続的インテグレーション | `05_Infrastructure/053_CI_CD_DevOps/0531_Continuous_Integration.md` の作成 | 完了 |
-| 16.2 | 継続的デプロイメント | `05_Infrastructure/053_CI_CD_DevOps/0532_Continuous_Deployment.md` の作成 | 進行中 |
-| 16.3 | Infrastructure as Code | `05_Infrastructure/053_CI_CD_DevOps/0533_Infrastructure_as_Code.md` の作成 | 未着手 |
+| 16.2 | 継続的デプロイメント | `05_Infrastructure/053_CI_CD_DevOps/0532_Continuous_Deployment.md` の作成 | 完了 |
+| 16.3 | Infrastructure as Code | `05_Infrastructure/053_CI_CD_DevOps/0533_Infrastructure_as_Code.md` の作成 | 進行中 |
 | 16.4 | 監視とロギング | `05_Infrastructure/053_CI_CD_DevOps/0534_Monitoring_Logging.md` の作成 | 未着手 |
 | 16.5 | MLOps | `05_Infrastructure/053_CI_CD_DevOps/0535_MLOps.md` の作成 | 未着手 |
 | 17.1 | 脆弱性の種類と対策 | `06_Security_Quality/061_Security_Basics/0611_Vulnerability_Types_Countermeasures.md` の作成 | 未着手 |
