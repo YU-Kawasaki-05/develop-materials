@@ -61,8 +61,8 @@
 | 14.3 | サーバーレスアーキテクチャ | `05_Infrastructure/051_Cloud_Computing/0513_Serverless_Architecture.md` の作成 | 完了 |
 | 14.4 | コスト管理 | `05_Infrastructure/051_Cloud_Computing/0514_Cost_Management.md` の作成 | 完了 |
 | 15.1 | Docker基礎 | `05_Infrastructure/052_Container_Orchestration/0521_Docker_Basics.md` の作成 | 完了 |
-| 15.2 | Kubernetes概要 | `05_Infrastructure/052_Container_Orchestration/0522_Kubernetes_Overview.md` の作成 | 進行中 |
-| 15.3 | コンテナ化のベストプラクティス | `05_Infrastructure/052_Container_Orchestration/0523_Containerization_Best_Practices.md` の作成 | 未着手 |
+| 15.2 | Kubernetes概要 | `05_Infrastructure/052_Container_Orchestration/0522_Kubernetes_Overview.md` の作成 | 完了 |
+| 15.3 | コンテナ化のベストプラクティス | `05_Infrastructure/052_Container_Orchestration/0523_Containerization_Best_Practices.md` の作成 | 進行中 |
 | 15.4 | CI/CDパイプライン | `05_Infrastructure/052_Container_Orchestration/0524_CI_CD_Pipeline.md` の作成 | 未着手 |
 | 16.1 | 継続的インテグレーション | `05_Infrastructure/053_CI_CD_DevOps/0531_Continuous_Integration.md` の作成 | 未着手 |
 | 16.2 | 継続的デプロイメント | `05_Infrastructure/053_CI_CD_DevOps/0532_Continuous_Deployment.md` の作成 | 未着手 |
