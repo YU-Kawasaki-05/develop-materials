@@ -78,4 +78,4 @@
 | 18.3 | 技術的負債 | `06_Security_Quality/062_Code_Quality_Maintainability/0623_Technical_Debt.md` の作成 | 完了 |
 | 18.4 | ドキュメンテーション | `06_Security_Quality/062_Code_Quality_Maintainability/0624_Documentation.md` の作成 | 完了 |
 | 18.5 | ライブラリ設計と公開 | `06_Security_Quality/062_Code_Quality_Maintainability/0625_Library_Design_Publication.md` の作成 | 完了 |
-| 19.1 | AIの歴史と主要分野 | `07_AI_Machine_Learning/071_AI_ML_Basics/0711_AI_History_Major_Fields.md`
+| 19.1 | AIの歴史と主要分野 | `07_AI_Machine_Learning/071_AI_ML_Basics/0711_AI_History_Major_Fields.md` の作成 | 完了 |
