@@ -74,7 +74,7 @@
 | 17.3 | セキュアコーディング | `06_Security_Quality/061_Security_Basics/0613_Secure_Coding.md` の作成 | 完了 |
 | 17.4 | セキュリティテストと脆弱性診断 | `06_Security_Quality/061_Security_Basics/0614_Security_Test_Vulnerability_Diagnosis.md` の作成 | 完了 |
 | 18.1 | コードレビュー | `06_Security_Quality/062_Code_Quality_Maintainability/0621_Code_Review.md` の作成 | 完了 |
-| 18.2 | リファクタリング | `06_Security_Quality/062_Code_Quality_Maintainability/0622_Refactoring.md` の作成 | 未着手 |
+| 18.2 | リファクタリング | `06_Security_Quality/062_Code_Quality_Maintainability/0622_Refactoring.md` の作成 | 完了 |
 | 18.3 | 技術的負債 | `06_Security_Quality/062_Code_Quality_Maintainability/0623_Technical_Debt.md` の作成 | 未着手 |
 | 18.4 | ドキュメンテーション | `06_Security_Quality/062_Code_Quality_Maintainability/0624_Documentation.md` の作成 | 未着手 |
 | 18.5 | ライブラリ設計と公開 | `06_Security_Quality/062_Code_Quality_Maintainability/0625_Library_Design_Publication.md` の作成 | 未着手 |
