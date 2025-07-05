@@ -70,7 +70,7 @@
 | 16.4 | 監視とロギング | `05_Infrastructure/053_CI_CD_DevOps/0534_Monitoring_Logging.md` の作成 | 完了 |
 | 16.5 | MLOps | `05_Infrastructure/053_CI_CD_DevOps/0535_MLOps.md` の作成 | 完了 |
 | 17.1 | 脆弱性の種類と対策 | `06_Security_Quality/061_Security_Basics/0611_Vulnerability_Types_Countermeasures.md` の作成 | 完了 |
-| 17.2 | 暗号化とハッシュ化 | `06_Security_Quality/061_Security_Basics/0612_Encryption_Hashing.md` の作成 | 未着手 |
+| 17.2 | 暗号化とハッシュ化 | `06_Security_Quality/061_Security_Basics/0612_Encryption_Hashing.md` の作成 | 完了 |
 | 17.3 | セキュアコーディング | `06_Security_Quality/061_Security_Basics/0613_Secure_Coding.md` の作成 | 未着手 |
 | 17.4 | セキュリティテストと脆弱性診断 | `06_Security_Quality/061_Security_Basics/0614_Security_Test_Vulnerability_Diagnosis.md` の作成 | 未着手 |
 | 18.1 | コードレビュー | `06_Security_Quality/062_Code_Quality_Maintainability/0621_Code_Review.md` の作成 | 未着手 |
