@@ -419,7 +419,7 @@ graph TD
 **想定時間**: 3-4時間
 
 #### Phase 1: プロジェクト基盤とブランチ戦略設定
-```bash
+    ```bash
 # ECサイトプロジェクトの初期化
 mkdir ecommerce-platform
 cd ecommerce-platform
@@ -755,7 +755,7 @@ module.exports = router;
 ```
 
 #### Phase 3: ブランチ戦略の実践ワークフロー
-```bash
+    ```bash
 # フロントエンドチーム: ログイン機能の開発
 git checkout main
 git pull origin main
@@ -774,7 +774,7 @@ git commit -m "feat(auth): implement user login form component
 Related: #AUTH-001"
 
 # 同時進行: バックエンドチーム
-git checkout main  
+    git checkout main
 git pull origin main
 git checkout -b feature/backend/auth-api
 

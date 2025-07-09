@@ -164,7 +164,7 @@ SELECT * FROM users WHERE age >= 18;
 SQLは、実際には複数の「サブ言語」の集合体です：
 
 **DML (Data Manipulation Language): データ操作言語**
-```sql
+    ```sql
 -- データの読み書きを行う
 SELECT * FROM users;                    -- 検索
 INSERT INTO users VALUES (...);         -- 追加
@@ -585,14 +585,14 @@ CREATE TABLE posts (
 );
 
 -- インデックス付きテーブル
-CREATE TABLE products (
+    CREATE TABLE products (
     product_id SERIAL PRIMARY KEY,
-    product_name VARCHAR(255) NOT NULL,
+        product_name VARCHAR(255) NOT NULL,
     category VARCHAR(100),
     price DECIMAL(10,2),
     stock_quantity INTEGER DEFAULT 0,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
+        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    );
 
 -- パフォーマンス向上のためのインデックス
 CREATE INDEX idx_products_category ON products(category);
@@ -687,7 +687,7 @@ FULL OUTER JOIN posts p ON u.user_id = p.user_id;
 ```
 
 ##### 複数テーブルの結合
-```sql
+    ```sql
 -- 3つのテーブルを結合
 SELECT 
     u.username,
@@ -713,7 +713,7 @@ HAVING COUNT(c.comment_id) > 0;
 ```
 
 ##### 自己結合：同じテーブルを結合
-```sql
+    ```sql
 -- 組織階層の表現
 SELECT 
     e.employee_name AS employee,
@@ -768,7 +768,7 @@ WHERE avg_price > 1000;
 ```
 
 ##### 相関サブクエリ
-```sql
+    ```sql
 -- 各カテゴリで最も高い商品を取得
 SELECT product_name, category, price
 FROM products p1
@@ -785,8 +785,8 @@ WHERE sales_amount > (
     SELECT AVG(sales_amount)
     FROM products p2
     WHERE p2.category = p1.category
-);
-```
+    );
+    ```
 
 ##### EXISTS演算子の活用
 ```sql
@@ -811,16 +811,16 @@ WHERE NOT EXISTS (
 #### 3. **ウィンドウ関数：高度な分析処理**
 
 ##### 基本的なウィンドウ関数
-```sql
+    ```sql
 -- 基本的なランキング
-SELECT 
-    product_name,
+    SELECT
+        product_name,
     category,
-    price,
+        price,
     ROW_NUMBER() OVER (PARTITION BY category ORDER BY price DESC) as rank,
     RANK() OVER (PARTITION BY category ORDER BY price DESC) as rank_with_ties,
     DENSE_RANK() OVER (PARTITION BY category ORDER BY price DESC) as dense_rank
-FROM products;
+    FROM products;
 
 -- 累計・移動平均
 SELECT 

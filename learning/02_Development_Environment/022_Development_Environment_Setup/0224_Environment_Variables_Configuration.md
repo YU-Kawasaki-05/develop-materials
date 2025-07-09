@@ -288,7 +288,7 @@ config:
   server:
     port: 8080
     environment: {{ .Values.global.environment }}
-  database:
+database:
     driver: postgresql
     host: {{ .Values.database.host }}
     port: {{ .Values.database.port }}

@@ -231,14 +231,14 @@ docker stats            # リソース使用量監視
 
 ### Lv.3: Docker Compose 複合システム
 
-```yaml
+    ```yaml
 # docker-compose.yml
-version: '3.8'
-services:
-  web:
-    build: .
-    ports:
-      - "8080:3000"
+    version: '3.8'
+    services:
+      web:
+        build: .
+        ports:
+          - "8080:3000"
     environment:
       - NODE_ENV=production
     depends_on:
@@ -247,7 +247,7 @@ services:
     
   database:
     image: postgres:15-alpine
-    environment:
+        environment:
       POSTGRES_DB: myapp
       POSTGRES_USER: user
       POSTGRES_PASSWORD: password

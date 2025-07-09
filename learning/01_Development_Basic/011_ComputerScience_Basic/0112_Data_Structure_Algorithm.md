@@ -52,16 +52,17 @@ console.log(colors[1]); // "Green" (インデックスは0から始まる)
 
 ```mermaid
 graph TD
-    subgraph スタック (LIFO)
-        direction LR
-        A[データ投入] --> B((1));
-        B --> C((2));
-        C --> D((3));
-        D --> E[データ取出];
+    subgraph スタック_LIFO ["スタック (LIFO)"]
+        A[データ投入] --> B((1))
+        B --> C((2))
+        C --> D((3))
+        D --> E[データ取出]
     end
-    subgraph キュー (FIFO)
-        direction LR
-        F[データ投入] --> G((1)) --> H((2)) --> I((3)) --> J[データ取出];
+    subgraph キュー_FIFO ["キュー (FIFO)"]
+        F[データ投入] --> G((1))
+        G --> H((2))
+        H --> I((3))
+        I --> J[データ取出]
     end
 ```
 

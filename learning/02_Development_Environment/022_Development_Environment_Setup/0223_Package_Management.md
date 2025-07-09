@@ -212,9 +212,9 @@ graph TB
 ### Lv.1: 基本パッケージ管理マスタリー
 
 **JavaScript/Node.js実践**
-```bash
+    ```bash
 # プロジェクト初期化・パッケージ管理
-npm init -y
+    npm init -y 
 npm install express lodash moment
 npm install --save-dev jest eslint prettier
 
@@ -229,7 +229,7 @@ npm outdated
 ```
 
 **Python実践**
-```bash
+    ```bash
 # 仮想環境・依存関係管理
 python -m venv myproject_env
 source myproject_env/bin/activate
@@ -295,7 +295,7 @@ jobs:
 ### Lv.3: セキュリティ・ガバナンス強化
 
 **脆弱性管理システム**
-```javascript
+    ```javascript
 // security-scanner.js
 const { execSync } = require('child_process');
 const fs = require('fs');

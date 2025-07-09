@@ -518,9 +518,9 @@ LIMIT 10
             "newsletter": true
         }
     },
-    "addresses": [
+      "addresses": [
         {
-            "type": "home",
+          "type": "home",
             "zip": "100-0001",
             "address": "東京都千代田区千代田1-1",
             "is_default": true

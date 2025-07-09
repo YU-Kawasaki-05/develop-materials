@@ -214,11 +214,11 @@ graph LR
 **想定時間**: 2-3時間
 
 #### Phase 1: リポジトリセットアップ
-```bash
+    ```bash
 # プロジェクトディレクトリの作成と初期化
 mkdir personal-blog
 cd personal-blog
-git init
+    git init
 
 # 初期設定（重要：これらは一度だけ実行）
 git config user.name "あなたの名前"
@@ -248,7 +248,7 @@ git commit -m "初期設定: .gitignoreを追加"
 ```
 
 #### Phase 2: 機能開発サイクル
-```bash
+    ```bash
 # ブログの基本構造を作成
 mkdir -p src/components src/pages public
 echo "# My Personal Blog" > README.md
@@ -274,7 +274,7 @@ cat > public/index.html << EOF
 EOF
 
 # 段階的コミット（重要：関連する変更をまとめる）
-git add README.md
+    git add README.md
 git commit -m "docs: プロジェクト概要をREADMEに追加"
 
 git add public/index.html
@@ -282,10 +282,10 @@ git commit -m "feat: ブログの基本HTMLテンプレートを追加"
 
 git add src/
 git commit -m "feat: プロジェクト構造のディレクトリを作成"
-```
+    ```
 
 #### Phase 3: 状態確認とナビゲーション
-```bash
+    ```bash
 # リポジトリの状態確認
 git status          # 現在の状態
 git log --oneline   # コミット履歴（簡潔表示）
@@ -306,7 +306,7 @@ git log -p public/index.html  # ファイルの変更履歴を詳細表示
 **想定時間**: 4-5時間
 
 #### Phase 1: ブランチ戦略の実装
-```bash
+    ```bash
 # メインブランチの整理
 git checkout main
 git pull origin main
@@ -320,7 +320,7 @@ git checkout main
 git checkout -b feature/user-authentication
 git push -u origin feature/user-authentication
 
-git checkout main  
+    git checkout main
 git checkout -b feature/payment-integration
 git push -u origin feature/payment-integration
 ```
